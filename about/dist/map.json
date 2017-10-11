@@ -1,0 +1,76 @@
+{
+  "dependency": {
+    "about.html": [],
+    "classify.html": []
+  },
+  "include": {
+    "about.html": {
+      "css": [
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "about.css",
+          "module": "about",
+          "images": []
+        }
+      ],
+      "js": [
+        {
+          "name": "about.js",
+          "module": "about",
+          "images": []
+        }
+      ],
+      "images": [
+        {
+          "res": "css/gb.css",
+          "module": "gb"
+        },
+        {
+          "res": "css/about.css",
+          "module": "about"
+        },
+        {
+          "res": "js/about.js",
+          "module": "about"
+        }
+      ]
+    },
+    "classify.html": {
+      "css": [
+        {
+          "name": "gb.css",
+          "module": "gb"
+        },
+        {
+          "name": "classify.css",
+          "module": "about",
+          "images": []
+        }
+      ],
+      "js": [
+        {
+          "name": "classify.js",
+          "module": "about",
+          "images": []
+        }
+      ],
+      "images": [
+        {
+          "res": "css/gb.css",
+          "module": "gb"
+        },
+        {
+          "res": "css/classify.css",
+          "module": "about"
+        },
+        {
+          "res": "js/classify.js",
+          "module": "about"
+        }
+      ]
+    }
+  }
+}
