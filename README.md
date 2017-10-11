@@ -10,6 +10,8 @@ athena-html
 >
 > 一次安装，到处运行
 
+运行 ath serve
+
 <img src="athena.jpg" width="240">
 
 ## 功能一览
